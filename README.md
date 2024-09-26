@@ -1,5 +1,5 @@
 # 💫 About Me:
-I excel as a proficient MERN stack developer, with expertise in<br> Next.js and Gatsby frameworks. My capabilities extend to<br> developing robust web applications, implementing dynamic <br>features, and optimizing performance for seamless user<br> experiences.<br>Currently Doing DSA in javascript<br><br>WhatsApp : 03117577931<br>Sim Contact : 03341510432<br>My Portfolio : ahmadsh.netlify.app
+I excel as a proficient Full Stack Developer. My capabilities extend to<br> developing robust web applications, implementing dynamic <br>features, and optimizing performance for seamless user<br> experiences.<br>Currently Doing DSA in javascript<br><br>WhatsApp : 03117577931<br>Sim Contact : 03341510432<br>My Portfolio : ahmadsh.netlify.app
 
 
 ## 🌐 Socials:
